@@ -1,0 +1,8 @@
+# IntelliJ
+.idea/
+
+# Build Output
+out/
+
+# IntelliJ Module Files
+*.iml
