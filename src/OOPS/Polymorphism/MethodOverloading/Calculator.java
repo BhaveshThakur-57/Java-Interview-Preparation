@@ -2,7 +2,6 @@ package OOPS.Polymorphism.MethodOverloading;
 
 /*
  * ============================================================
- * File : Calculator.java
  * Topic: Method Overloading
  * ============================================================
  *
@@ -12,7 +11,7 @@ package OOPS.Polymorphism.MethodOverloading;
  * Compile-Time Polymorphism
  */
 
-public class Calculator {
+public  class Calculator {
 
     // Addition of two integers
     public int add(int num1, int num2) {

@@ -2,7 +2,6 @@ package OOPS.Polymorphism.MethodOverriding;
 
 /*
  * ============================================================
- * File : Account.java
  * Topic: Parent Class
  * ============================================================
  *

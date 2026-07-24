@@ -2,7 +2,6 @@ package OOPS.Polymorphism.RuntimePolymorphism;
 
 /*
  * ============================================================
- * File : Account.java
  * Topic: Parent Class
  * ============================================================
  *

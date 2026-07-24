@@ -1,10 +1,6 @@
 package OOPS.Polymorphism.RuntimePolymorphism;
 
-/*
- * ============================================================
- * File : CurrentAccount.java
- * ============================================================
- */
+
 
 public class CurrentAccount extends Account {
 

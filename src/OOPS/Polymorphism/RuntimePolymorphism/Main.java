@@ -2,7 +2,6 @@ package OOPS.Polymorphism.RuntimePolymorphism;
 
 /*
  * ============================================================
- * File : Main.java
  * Topic: Runtime Polymorphism
  * ============================================================
  */

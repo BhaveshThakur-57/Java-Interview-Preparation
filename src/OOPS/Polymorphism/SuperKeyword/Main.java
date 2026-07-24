@@ -2,7 +2,6 @@ package OOPS.Polymorphism.SuperKeyword;
 
 /*
  * ============================================================
- * File : Main.java
  * Topic: super Keyword
  * ============================================================
  */

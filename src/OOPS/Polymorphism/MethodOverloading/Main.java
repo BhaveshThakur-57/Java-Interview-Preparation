@@ -2,7 +2,6 @@ package OOPS.Polymorphism.MethodOverloading;
 
 /*
  * ============================================================
- * File : Main.java
  * Topic: Method Overloading
  * ============================================================
  */

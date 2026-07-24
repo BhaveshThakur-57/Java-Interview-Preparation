@@ -2,7 +2,6 @@ package OOPS.Polymorphism.SuperKeyword;
 
 /*
  * ============================================================
- * File : SavingsAccount.java
  * Topic: super Keyword
  * ============================================================
  *

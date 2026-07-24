@@ -1,10 +1,6 @@
 package OOPS.Polymorphism.RuntimePolymorphism;
 
-/*
- * ============================================================
- * File : SavingsAccount.java
- * ============================================================
- */
+
 
 public class SavingsAccount extends Account {
 

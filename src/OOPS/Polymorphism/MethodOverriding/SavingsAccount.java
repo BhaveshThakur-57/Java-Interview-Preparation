@@ -2,7 +2,6 @@ package OOPS.Polymorphism.MethodOverriding;
 
 /*
  * ============================================================
- * File : SavingsAccount.java
  * Topic: Method Overriding
  * ============================================================
  *
