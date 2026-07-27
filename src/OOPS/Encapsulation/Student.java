@@ -12,6 +12,10 @@ package OOPS.Encapsulation;
  *
  * Data is hidden using private access modifier.
  *
+ * Note:
+   1. Declare class variables as private.
+   2. Declare class methods as public.
+
  * Data can only be accessed using
  * Getter and Setter methods.
  */

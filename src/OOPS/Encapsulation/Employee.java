@@ -3,6 +3,7 @@ package OOPS.Encapsulation;
 /*
  * ============================================================
  * Topic: Real World Encapsulation Example
+ *  Encapsulation is the combination of Data hiding and Abstraction
  * ============================================================
  */
 

@@ -9,6 +9,8 @@ package OOPS.Polymorphism.MethodOverloading;
  * with the same name but different parameter lists.
  *
  * Compile-Time Polymorphism
+ *
+ * we can do Method Overloading with or without inheritance
  */
 
 public  class Calculator {
