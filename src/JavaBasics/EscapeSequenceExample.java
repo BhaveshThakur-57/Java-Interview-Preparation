@@ -7,7 +7,7 @@ package JavaBasics;
   \t  -> Tab Space
   \"  -> Double Quote
   \'  -> Single Quote
-  \\  -> Backslash
+  \  -> Backslash
 
  */
 

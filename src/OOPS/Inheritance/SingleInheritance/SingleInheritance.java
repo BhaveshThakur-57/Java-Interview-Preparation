@@ -39,6 +39,7 @@ class Car extends Vehicle {
 
     protected String fuelType;
 
+
     public void setCarDetails(String fuelType) {
 
         this.fuelType = fuelType;

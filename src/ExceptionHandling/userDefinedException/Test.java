@@ -1,7 +1,7 @@
 package ExceptionHandling.userDefinedException;
 
-class InvalidAgeException extends Exception{
-    InvalidAgeException(String msg){
+class InvalidAGeException extends Exception{
+    InvalidAGeException(String msg){
         System.out.println(msg);
     }
 }
@@ -14,10 +14,10 @@ class InvalidAgeException extends Exception{
             System.out.println(e);
         }
     }
-     public static void vote (int age) throws InvalidAgeException
+     public static void vote (int age) throws InvalidAGeException
      {
          if (age < 18) {
-             throw new InvalidAgeException("Not Eligible for votting");
+             throw new InvalidAGeException("Not Eligible for votting");
          } else {
              System.out.println("Eligible for voting");
          }

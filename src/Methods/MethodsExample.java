@@ -9,12 +9,6 @@ package Methods;
  * --------
  * A method is a block of code that performs a specific task.
  *
- * Advantages:
- * ✔ Code Reusability
- * ✔ Better Readability
- * ✔ Easy Maintenance
- * ✔ Modular Programming
- *
  * Syntax:
  *
  * accessModifier returnType methodName(){

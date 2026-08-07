@@ -1,0 +1,25 @@
+Animal a = new Animal();
+
+Animal → Class Name / Reference Type
+a      → Reference Variable
+new    → Object Creation Keyword
+Animal() → Constructor
+
+Reference = Animal
+Object    = Animal
+----------------------------------
+
+Animal a = new Dog();
+
+Animal → Parent Reference Type
+a      → Reference Variable
+new    → Object Creation Keyword
+Dog()  → Child Constructor
+
+Reference = Parent
+Object    = Child
+
+✔ Used for Runtime Polymorphism.
+
+Dog d = new Animal(); ❌ Not Allowed
+Animal a = new Dog(); ✔ Allowed

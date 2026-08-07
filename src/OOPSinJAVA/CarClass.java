@@ -15,7 +15,7 @@ public class CarClass {
         Car c2 = new Car("Tata Punch", "SUV");
         System.out.println(c2.name);
         System.out.println(c2.type);
- //       System.out.println(c2.totalWheels);
+ //      System.out.println(c2.totalWheels);
         System.out.println(c2.numberOfCars);
 
         Car c3 = new Car("BMW","Hatchback");

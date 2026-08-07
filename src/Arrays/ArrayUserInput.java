@@ -27,8 +27,8 @@ public class ArrayUserInput {
 
             System.out.print("Element " + (i + 1) + " : ");
             numbers[i] = sc.nextInt();
-
         }
+
 
         System.out.println("\nArray Elements");
 

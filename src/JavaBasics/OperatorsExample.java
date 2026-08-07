@@ -15,8 +15,10 @@ package JavaBasics;
 public class OperatorsExample {
     public static void main(String[] args) {
 
-        int a = 20;
-        int b = 10;
+        int a = 10;
+        int b = 20;
+
+
 
         // Arithmetic Operators
         System.out.println("Arithmetic Operators");

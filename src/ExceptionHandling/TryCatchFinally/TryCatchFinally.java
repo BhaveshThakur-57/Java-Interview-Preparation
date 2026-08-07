@@ -9,12 +9,12 @@ public class TryCatchFinally {
             int a=20,b=2,c;
             c=a/b;
             System.out.println(c);
-            System.out.println("Learn Java");
+
         } catch (ArithmeticException e) {
             System.out.println(" can't divide by zero");
         }
         finally {
-            System.out.println("subscribe");
+            System.out.println("Finally Block Executed");
         }
         System.out.println("main method ended");
     }

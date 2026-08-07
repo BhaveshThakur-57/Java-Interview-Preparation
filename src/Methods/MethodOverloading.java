@@ -19,6 +19,9 @@ package Methods;
  *
  * Method Overloading is an example of
  * Compile-Time Polymorphism.
+ *
+ * Method Overloading depends ONLY on the Method Signature.
+ * Method Signature = Method Name + Parameter List
 
  */
 

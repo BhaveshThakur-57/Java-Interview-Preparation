@@ -9,11 +9,6 @@ package Methods;
  * --------
  * Parameters are variables passed to methods.
  *
- * Advantages:
- * ✔ Dynamic Values
- * ✔ Reusable Methods
- * ✔ Cleaner Code
-
  */
 
 public class ParameterExample {

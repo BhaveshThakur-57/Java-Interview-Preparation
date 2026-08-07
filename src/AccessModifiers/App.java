@@ -1,7 +1,29 @@
 package AccessModifiers;
 
+/*
+ * ============================================================
+ *                JAVA ACCESS MODIFIERS
+ * ============================================================
+ *
+ * Modifier      Same Class   Same Package   Outside Package   Child Class
+ * ------------------------------------------------------------------------
+ * public            ✔️            ✔️              ✔️              ✔️
+ * protected         ✔️            ✔️              ❌              ✔️
+ * default           ✔️            ✔️              ❌              ❌
+ * private           ✔️            ❌              ❌              ❌
+ *
+ * ============================================================
+ * Shortcut:
+ *
+ * public    -> Accessible Everywhere
+ * protected -> Same Package + Child Class
+ * default   -> Same Package Only
+ * private   -> Same Class Only
+ * ============================================================
+ */
+
 public class App {
-    public String str_1 = "I am a Public Member";
+     public String str_1 = "I am a Public Member";
 
      void PrintFromClass(){
         System.out.println("within  class: " +str_1);

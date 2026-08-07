@@ -1,5 +1,8 @@
 package PassbyValueANDPassbyReference;
 
+// Pass by Value:
+// Method gets a copy of the variable, not the original.
+
 //java does not support pass by reference
 //it only supports pass by value
 

@@ -1,12 +1,5 @@
 package Strings;
 
-/*
- * ============================================================
- * File : StringPrograms.java
- * Topic: Interview Programs
- * ============================================================
- */
-
 public class StringPrograms {
 
     public static void main(String[] args) {
